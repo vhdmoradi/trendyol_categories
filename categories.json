@@ -1,0 +1,333 @@
+{
+    "Women": {
+        "All Clothing": {
+            "webUrl": "sr?wc=82&os=1&sk=1&sst=BEST_SELLER"
+        },
+        "Bestsellers": {
+            "webUrl": "sr?wc=82&os=1&sk=1&sst=BEST_SELLER"
+        },
+        "Dresses": {
+            "Mini Dresses": {
+                "webUrl": "sr?wg=1&wc=56&attr=48|1283"
+            },
+            "Midi & Maxi Dresses": {
+                "webUrl": "sr?wg=1&wc=56&attr=48|902438"
+            },
+            "Evening & Prom Dresses": {
+                "webUrl": "sr?wc=55&wg=1"
+            },
+            "Jumpsuits": {
+                "webUrl": "sr?wc=58&wg=1"
+            }
+        },
+        "Tops": {
+            "Blouses & Tops": {
+                "webUrl": "sr?wc=1019&wg=1"
+            },
+            "Sweaters & Cardigans": {
+                "webUrl": "sr?wc=101482&wg=1"
+            },
+            "Shirts ": {
+                "webUrl": "sr?wc=75&wg=1"
+            },
+            "T-shirts & Tops": {
+                "webUrl": "sr?wc=73&wg=1"
+            },
+            "Sweatshirts & Hoodies": {
+                "webUrl": "sr?wc=1179&wg=1"
+            },
+            "Bodysuits": {
+                "webUrl": "sr?wc=1020&wg=1"
+            }
+        },
+        "Bottoms": {
+            "Jeans": {
+                "webUrl": "sr?wc=120&wg=1"
+            },
+            "Pants": {
+                "webUrl": "sr?wc=70&wg=1"
+            },
+            "Skirts": {
+                "webUrl": "sr?wc=69&wg=1"
+            },
+            "Sweatpants & Leggings": {
+                "webUrl": "sr?wc=101451,121&wg=1"
+            },
+            "Shorts": {
+                "webUrl": "sr?wc=119&wg=1"
+            }
+        },
+        "Outerwear": {
+            "Blazers": {
+                "webUrl": "sr?wc=150566&wg=1"
+            },
+            "Vests & Jackets": {
+                "webUrl": "sr?wc=1207&wg=1"
+            },
+            "Trench Coats & Raincoasts": {
+                "webUrl": "sr?wc=1205,79&wg=1"
+            },
+            "Winter Jackets & Coats": {
+                "webUrl": "sr?wc=1075&wg=1"
+            }
+        },
+        "Two-Piece Sets": {
+            "webUrl": "sr?wc=83&wg=1"
+        },
+        "Lingerie": {
+            "webUrl": "sr?wc=64&wg=1"
+        },
+        "Loungewear": {
+            "webUrl": "sr?wc=64&wg=1"
+        },
+        "Sportswear": {
+            "Sports Leggings": {
+                "webUrl": "sr?wc=101460&wg=1"
+            },
+            "Sports Bras": {
+                "webUrl": "sr?wc=1358&wg=1"
+            },
+            "Sweatsuits": {
+                "webUrl": "sr?wc=101452&wg=1"
+            },
+            "Sport Shoes": {
+                "webUrl": "sr?wc=114&wg=1"
+            }
+        },
+        "Shoes": {
+            "Sneakers": {
+                "webUrl": "sr?wc=112&wg=1"
+            },
+            "Sandals & Mules": {
+                "webUrl": "sr?wc=1351&wg=1"
+            },
+            "Boots & Ankle Boots": {
+                "webUrl": "sr?wc=103718&wg=1"
+            },
+            "High Heels": {
+                "webUrl": "sr?wc=1172&wg=1"
+            },
+            "Flat Shoes": {
+                "webUrl": "sr?wc=114&attr=267|2617&os=1&wg=1"
+            },
+            "Lace-up Shoes": {
+                "webUrl": "sr?wg=1&wc=114&attr=21|4024&os=1"
+            }
+        },
+        "Accessories": {
+            "Sunglasses": {
+                "webUrl": "sr?wc=105&wg=1"
+            },
+            "Belts": {
+                "webUrl": "sr?wc=1093&wg=1"
+            },
+            "Hats & Caps": {
+                "webUrl": "sr?wc=1181&wg=1"
+            }
+        },
+        "Bags": {
+            "Shoulder Bags": {
+                "webUrl": "sr?wc=101465&wg=1"
+            },
+            "Backpacks ": {
+                "webUrl": "sr?wc=115&wg=1"
+            },
+            "Handbags": {
+                "webUrl": "sr?wc=104145&wg=1"
+            }
+        },
+        "Collections": {
+            "Curve Collection": {
+                "webUrl": "sr?wc=80&wg=1"
+            },
+            "Basics": {
+                "webUrl": "sr?wg=1&wc=73,70,1179,120,101482&attr=33|261977"
+            },
+            "Maternity Clothes": {
+                "webUrl": "sr?wc=104625"
+            },
+            "Swimwear & Beachwear": {
+                "webUrl": "sr?wc=68&wg=1"
+            },
+            "Modest Collection": {
+                "webUrl": "sr?wc=81&wg=1"
+            }
+        },
+        "Trends": {
+            "Influencer Picks": {
+                "webUrl": "sr?wg=1&tag=influencerheader,pickedbyinfluencers"
+            },
+            "Loose Jeans & Pants": {
+                "webUrl": "sr?wg=1&wc=70,120&attr=179|2006"
+            },
+            "Pastel Colors": {
+                "webUrl": "sr?wg=1&wcl=11,12,15"
+            },
+            "Wide Leg Pants": {
+                "webUrl": "sr?wg=1&wc=70,120&attr=179|2019"
+            },
+            "Tunics": {
+                "webUrl": "sr?wc=73&attr=179|2004&os=1"
+            }
+        }
+    },
+    "Men": {
+        "All Clothing": {
+            "webUrl": "sr?wg=2&sst=MOST_RATED"
+        },
+        "Bestsellers": {
+            "webUrl": "sr?wc=82&wg=2&ni=true"
+        },
+        "New in: Men": {
+            "webUrl": "sr?wc=82&wg=2&ni=true"
+        },
+        "Tops": {
+            "Shirts": {
+                "webUrl": "sr?wc=75&wg=2"
+            },
+            "T-shirts & Polos": {
+                "webUrl": "sr?wc=73,108775&wg=2"
+            },
+            "Sweatshirt & Hoodies": {
+                "webUrl": "sr?wc=1179&wg=2"
+            },
+            "Sweaters & Cardigans": {
+                "webUrl": "sr?wc=101482&wg=2"
+            },
+            "Softshell & Fleece Jackets": {
+                "webUrl": "sr?wc=1149&wg=2"
+            }
+        },
+        "Bottoms": {
+            "Jeans": {
+                "webUrl": "sr?wc=120&wg=2"
+            },
+            "Pants": {
+                "webUrl": "sr?wc=70&wg=2"
+            },
+            "Shorts & Bermudas": {
+                "webUrl": "sr?wc=101484&wg=2"
+            },
+            "Sweatpants": {
+                "webUrl": "sr?wc=101451&wg=2"
+            }
+        },
+        "Sportswear": {
+            "Sport T-shirts & Tops": {
+                "webUrl": "sr?wc=101459&wg=2"
+            },
+            "Sweatsuits": {
+                "webUrl": "sr?wc=1049&wg=2"
+            },
+            "Leggings / Tights": {
+                "webUrl": "sr?wc=121&wg=2"
+            },
+            "Sports Shorts": {
+                "webUrl": "sr?wc=1172&wg=2"
+            },
+            "Training Jackets": {
+                "webUrl": "sr?wc=109&wg=2"
+            }
+        },
+        "Outerwear": {
+            "Winter Jackets & Coats": {
+                "webUrl": "sr?wc=104598&wg=2"
+            },
+            "Jackets": {
+                "webUrl": "sr?wc=1030&wg=2"
+            },
+            "Vests": {
+                "webUrl": "sr?wc=1207&wg=2"
+            },
+            "Blazers": {
+                "webUrl": "sr?wc=150566&wg=2"
+            },
+            "Raincoats & Trench Coats": {
+                "webUrl": "sr?wc=79,1205&wg=2"
+            },
+            "Parkas": {
+                "webUrl": "sr?wc=104587&wg=2"
+            }
+        },
+        "Shoes": {
+            "Sneakers": {
+                "webUrl": "sr?wc=1172&wg=2"
+            },
+            "Trainers": {
+                "webUrl": "sr?wc=1172&wg=2"
+            },
+            "Sandals & Mules": {
+                "webUrl": "sr?wc=112&wg=2"
+            },
+            "Business & Oxford Shoes": {
+                "webUrl": "sr?wg=2&wc=114&attr=21|4024&os=1"
+            },
+            "Boots": {
+                "webUrl": "sr?wc=1037&wg=2"
+            },
+            "Flats & Loafer Shoes": {
+                "webUrl": "sr?wc=1108,113&wg=2"
+            }
+        },
+        "Underwear & Nightwear": {
+            "webUrl": "sr?wc=64&wg=2"
+        },
+        "Swimwear & Beachwear": {
+            "webUrl": "sr?wc=68&wg=2"
+        },
+        "Bags": {
+            "Bags & Backpacks": {
+                "webUrl": "sr?wc=115,117&wg=2"
+            },
+            "Wallets & Card Holders": {
+                "webUrl": "sr?wc=1353&wg=2"
+            },
+            "Suitcases": {
+                "webUrl": "sr?wc=1202&wg=2"
+            }
+        },
+        "Accessories": {
+            "Sunglasses": {
+                "webUrl": "sr?wc=105&wg=2"
+            },
+            "Hats & Caps": {
+                "webUrl": "sr?wc=1181&wg=2"
+            },
+            "Belts": {
+                "webUrl": "sr?wc=1093&wg=2"
+            },
+            "Ties": {
+                "webUrl": "sr?wc=1101&wg=2"
+            },
+            "Socks": {
+                "webUrl": "sr?wc=1038&wg=2"
+            }
+        },
+        "Collections": {
+            "Basics": {
+                "webUrl": "sr?wg=2&wc=73,70,1179,120,101482&attr=33|261977"
+            },
+            "Suits": {
+                "webUrl": "sr?wc=78&wg=2"
+            },
+            "Printed T-Shirts": {
+                "webUrl": "sr?wg=2&wc=73&attr=33|315"
+            },
+            "Business Wear": {
+                "webUrl": "sr?wg=2&wc=82&attr=881|998409"
+            },
+            "Wide Leg Pants": {
+                "webUrl": "sr?wg=2&wc=70&attr=880|998306"
+            },
+            "Oversize Shirts": {
+                "webUrl": "sr?wg=2&wc=75&attr=179|2004"
+            },
+            "White & Beige": {
+                "webUrl": "sr?wc=82&wcl=2,3&wg=2"
+            },
+            "Must-have Jeans": {
+                "webUrl": "sr?wg=2&wc=120&sst=BEST_SELLER"
+            }
+        }
+    }
+}
