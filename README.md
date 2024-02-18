@@ -11,7 +11,7 @@ This script utilizes Python libraries `BeautifulSoup` and `Requests` to retrieve
    ```bash
    virtualenv .venv
 
-This command creates a virtual environment named .venv. You can choose other names if you prefer.
+This command creates a virtual environment named `.venv`. You can choose other names if you prefer.
 
 2. **Install Dependencies:**
 
@@ -24,6 +24,3 @@ This command creates a virtual environment named .venv. You can choose other nam
 
     Now you can execute the script.
 
-
-
-This markdown formatting organizes all the content under the `Trendyol Categories` heading and 
